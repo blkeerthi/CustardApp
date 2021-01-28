@@ -1,0 +1,117 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#edf2f5ba;  
+    font-family: 'Arial';  
+}  
+.Registration{  
+        width: 382px;  
+        height: 400px;
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:#1c7db6fd;  
+        border-radius: 15px ; 
+        margin-top: -7%; 
+        
+}  
+h2{  
+    text-align: center;  
+    color: #277582;   
+    padding: 20px;  
+}  
+label{  
+    color:  #08ffd1;   
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Date-of-Birth{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#Phone-No{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}   
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#RPass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#Registration{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;    
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+}  
+figure{
+    widows:500px;
+    height:700px;
+    width: 600px;
+    border-radius:4px;
+    left:350px;
+    border:2px solid rgba(119, 128, 131, 0.562);
+    position:relative;
+    background-color:rgba(118, 208, 243, 0.507);  
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+
+figure:before{
+    content:'';
+    position:absolute;
+    top:40px;
+    left:0;
+    width:100%;
+    height:2px;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    }
